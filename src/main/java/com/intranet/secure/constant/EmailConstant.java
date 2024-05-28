@@ -3,7 +3,7 @@ package com.intranet.secure.constant;
 public class EmailConstant {
 	   public static final String SIMPLE_MAIL_TRANSFER_PROTOCOL = "smtps";
 	    public static final String USERNAME = "contact.moddy@gmail.com";
-	    public static final String PASSWORD = "badrmounia123";
+	    public static final String PASSWORD = "mypassword";
 	    public static final String FROM_EMAIL = "contact.moddy@gmail.com";
 	    public static final String CC_EMAIL = "";
 	    public static final String EMAIL_SUBJECT = "Max GMBH - New Password";
